@@ -11,6 +11,8 @@ namespace EJEMPLO1
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo");
+            Console.WriteLine("Segunda parte del programa");
+            Console.WriteLine("Para principiantes");
             Console.ReadLine();
         }
     }
