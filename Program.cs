@@ -13,6 +13,7 @@ namespace EJEMPLO1
             Console.WriteLine("Hola mundo");
             Console.WriteLine("Segunda parte del programa");
             Console.WriteLine("Para principiantes");
+            Console.WriteLine("El proyecto a realizarr es dedicado y puntual");
             Console.ReadLine();
         }
     }
