@@ -12,6 +12,7 @@ namespace EJEMPLO1
         {
             Console.WriteLine("Hola mundo");
             Console.WriteLine("Kevin"); //actualizar
+            Console.WriteLine("MODELAMIENTO");
             Console.ReadLine();
         }
     }
