@@ -15,6 +15,7 @@ namespace EJEMPLO1
             Console.WriteLine("MODELAMIENTO");
             Console.WriteLine("INGENIERIA");//NUEVA LINEA
             Console.WriteLine("gfdgfdojgjodfgfd");
+            //dasdasdafgasf
             Console.ReadLine();
         }
     }
